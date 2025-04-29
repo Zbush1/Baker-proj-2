@@ -1,10 +1,10 @@
 # Baker-proj-2
 
-# BACKERS ALGORITHEM LAB
+# BACKERS ALGORITHM LAB
 
 this lab implements the banker algorithem to avoid deadlocks in OS.
 
-Bankers algorithem is a deadlock avoiding algorithem that makes sure its safe to allocate by simualting allocations then checking if they are safe. 
+Bankers algorithm is a deadlock avoiding algorithm that makes sure its safe to allocate by simualting allocations then checking if they are safe. 
 
 To compile do: 
 
