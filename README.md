@@ -9,6 +9,7 @@ Bankers algorithem is a deadlock avoiding algorithem that makes sure its safe to
 To compile do: 
 
 g++ -o banker banker_algorithm.cpp
+
  then run with: 
  
  ./banker
