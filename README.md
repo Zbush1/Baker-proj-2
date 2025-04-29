@@ -14,5 +14,6 @@ g++ -o banker banker_algorithm.cpp
  
  ./banker
 
- example of output
+#  Output example
+ 
  ![image](https://github.com/user-attachments/assets/6efadb4f-74e3-4d50-b310-d1137f1ebb99)
