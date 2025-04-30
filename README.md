@@ -2,7 +2,7 @@
 
 # BANKERS ALGORITHM LAB
 
-#DESCRIPTION
+# DESCRIPTION
 this lab implements the banker algorithem to avoid deadlocks in OS.
 
 Bankers algorithm is a deadlock avoiding algorithm that makes sure its safe to allocate by simualting allocations then checking if they are safe. 
